@@ -17,7 +17,7 @@ mnemonics using the major system, or "pegs"
 | 8   | f, v      | ***F***igure 8
 | 9   | p, b      | 9 looks like ***P*** or ***B***
 
-## words
+## word bank
 
 | #   | word     |
 | :-: | :------- |
