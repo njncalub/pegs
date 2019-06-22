@@ -21,29 +21,34 @@ mnemonics using the major system, or "pegs"
 
 | #   | word     |
 | :-: | :------- |
-| 0   | zou
+| 0   | zou (elephant)
 | 1   | tie
-| 2   | noah
+| 2   | Noah
 | 3   | ma
-| 4   | rai
-| 5   | law
+| 4   | Rai (Raini)
+| 5   | law (Cardo)
 | 6   | shoe
 | 7   | cow
-| 8   | ivy
-| 9   | bee
+| 8   | Ivy
+| 9   | bee (Jollibee)
 | 10  | toes
-| 11  | tot
-| 12  | tin
-| 13  | tom
-| 14  | tear
+| 11  | tit (just one)
+| 12  | Tin
+| 13  | Tom
+| 14  | Dory
 | 15  | towel
-| 16  | tj
-| 17  | tik
-| 18  | taffee
-| 19  | tobee
+| 16  | Watashi (myself)
+| 17  | Deku
+| 18  | dove (the milk bar)
+| 19  | Deby
 | 20  | nose
-| 21  | kneed
-| 22  | nun
-| 23  | gnome
-| 24  | noir
-| 25  | neil
+| 21  | NEET
+| 22  | nanny (Nanny McPhee)
+| 23  | Nemo
+| 24  | Nero
+| 25  | Neil (Neil Armstrong)
+| 26  | Nishee
+| 27  | Nikka
+| 28  | Navi
+| 29  | knob
+| 30  | mouse (Micky Mouse)
